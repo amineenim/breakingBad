@@ -1,0 +1,32 @@
+.actor-profile{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.header{
+	width: 50%;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+.logo-section{
+	float: left;
+}
+
+.content{
+	border : solid 2px black;
+	padding: 10px 5px ;
+	text-align: center;
+}
+
+.header select {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.sideSection {
+	text-align: center;
+	margin-top: 20px;
+}
